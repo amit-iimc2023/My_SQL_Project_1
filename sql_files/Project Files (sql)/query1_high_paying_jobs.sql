@@ -1,5 +1,5 @@
 /*query1
-Problem 1: What are the top paying jobs for following criteria
+Problem 1: What are the top 10 paying jobs for following criteria
 - Job Role: Data Analyst
 - Work From Home job postings
 - Remove Null Values
